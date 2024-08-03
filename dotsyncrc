@@ -1,10 +1,10 @@
 #
-# dotphiles : https://github.com/dotphiles/dotphiles
+# dotfiles : https://github.com/ArnabRollin/dotfiles
 #
 # Config for dotsync.
 #
 # Authors:
-#   Ben O'Hara <bohara@gmail.com>
+#   Arnab Phukan <iamarnab.phukan@gmail.com>
 #
 
 # Location of your dotfiles in $HOME
@@ -18,62 +18,11 @@
 [files]
 # Uncomment examples below
 dotsyncrc
-#ack/ackrc
-#aptitude
-#bin:bin
-#ctags/ctags
-#cmus
-#curl/curlrc
-#git/gitconfig
-#git/gitignore
-#git/gitattributes
-#git/tigrc
-#git/gitk
-#gnupg
-#grc
-#input/editrc
-#input/inputrc
-#irssi
-#mpd/mpd.conf
-#mercurial/hgrc
-#mercurial/hgignore
-#mutt
-#mutt/muttrc
-#mutt/offlineimaprc
-#mysql/my.cnf
-#ncmpcpp/config
-#ncmpcpp/error.log
-#postgresql/psqlrc
-#python/pythonrc
-#python/pylintrc
-#rpm/rpmmacros
-#ruby/irbrc
-#ruby/pryrc
-#ruby/gemrc
-#ruby/railsrc
-#ruby/rdebugrc
-#ruby/aprc
-#ruby/caprc
-#screen/screenrc
-#shell/hushlogin
-#shell/urlview
-#ssh
-#subversion
-#task/task
-#task/taskrc
-#tmux/tmux.conf
-#tmux/tmuxinator
-#vim/dotvim:.vim
-#vim/vimrc
-#vim/gvimrc
-#wget/wgetrc
-#zsh/fasdrc
-#zsh/dotzsh:.zsh
-#zsh/zlogin
-#zsh/zlogout
-#zsh/zprofile
-#zsh/zshenv
-#zsh/zshrc
+git/gitconfig
+vim/vimrc
+vim/gvimrc
+zsh/zshrc
+tmux/tmux.conf
 [endfiles]
 
 # Hosts to sync
